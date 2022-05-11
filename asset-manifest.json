@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mplaza-site/static/css/main.073c9b0a.css",
+    "main.js": "/mplaza-site/static/js/main.2c3c5cba.js",
+    "static/js/787.84c5aa2f.chunk.js": "/mplaza-site/static/js/787.84c5aa2f.chunk.js",
+    "static/media/logo.svg": "/mplaza-site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mplaza-site/index.html",
+    "main.073c9b0a.css.map": "/mplaza-site/static/css/main.073c9b0a.css.map",
+    "main.2c3c5cba.js.map": "/mplaza-site/static/js/main.2c3c5cba.js.map",
+    "787.84c5aa2f.chunk.js.map": "/mplaza-site/static/js/787.84c5aa2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2c3c5cba.js"
+  ]
+}
